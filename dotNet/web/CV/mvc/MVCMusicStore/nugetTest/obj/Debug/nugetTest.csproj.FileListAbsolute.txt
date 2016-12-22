@@ -1,0 +1,5 @@
+C:\Users\Arnab\Source\Repos\NewRepo\web\mvc\MVCMusicStore\nugetTest\bin\Debug\nugetTest.dll
+C:\Users\Arnab\Source\Repos\NewRepo\web\mvc\MVCMusicStore\nugetTest\bin\Debug\nugetTest.pdb
+C:\Users\Arnab\Source\Repos\NewRepo\web\mvc\MVCMusicStore\nugetTest\obj\Debug\nugetTest.csprojResolveAssemblyReference.cache
+C:\Users\Arnab\Source\Repos\NewRepo\web\mvc\MVCMusicStore\nugetTest\obj\Debug\nugetTest.dll
+C:\Users\Arnab\Source\Repos\NewRepo\web\mvc\MVCMusicStore\nugetTest\obj\Debug\nugetTest.pdb
